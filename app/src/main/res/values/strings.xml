@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">reproductor</string>
+
+    <string-array name="playlist">
+        <item>Lil Uzi Vert - XO Tour Llif3</item>
+        <item>Kanye West - Flashing Lights</item>
+        <item>Travis Scott - Down In Atlanta</item>
+        <item>Avicii - Waiting For Love</item>
+        <item>The Chainsmokers - Closer</item>
+        <item>Demons - Imagine Dragons</item>
+    </string-array>
+</resources>
